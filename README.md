@@ -28,4 +28,9 @@ The app is composed by
 ## view
 
   This view models  holds all the widgets,screens
+## Packages in use
+* Provider for state management
+* http for talking to the REST API
+* shared_Preferences for local storage
+* get_it
 
